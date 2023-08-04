@@ -1,0 +1,44 @@
+.bemvindo{
+
+    color: rgba(143, 38, 38, 0.87);
+font-variant-ligatures: contextual;
+}
+h2{
+    color:rgba(53, 46, 46, 0.795) 
+    
+}
+h3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(136, 103, 103)
+}
+h4{
+    
+    background-color: red;
+    position: center;
+    width: 90%;
+    text-align: center;
+}
+
+    
+        .bemvindo{
+            text-align: center;
+        }
+    h2{
+        text-align: center;
+    }
+    h3{
+        text-align: center;
+    
+    }
+    img{
+        display: block;
+        margin: 80px auto;
+    }
+    body{
+        background-color:rgba(134, 64, 64, 0.336)
+        }
+footer{
+    position: center;
+    width: 90%;
+    text-align: center;
+}
